@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Kotlin training</string>
+    <string name="textView">Kotlin Android training</string>
+    <string name="button">TRUE</string>
+    <string name="button2">FALSE</string>
+</resources>
